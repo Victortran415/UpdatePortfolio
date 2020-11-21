@@ -48,7 +48,6 @@ body, html{
 
 } 
 
-
 h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: orangered
@@ -67,7 +66,9 @@ p {
 
 
 
-
+.fa-linkedin, .fa-github {
+    font-size: 60px;
+}
 
 
 .footer {
