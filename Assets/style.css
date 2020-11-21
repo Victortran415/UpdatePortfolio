@@ -24,7 +24,7 @@ body, html{
 }
 
 .myIntro {
-    padding-top: 180px;
+    padding-top: 150px;
 }
 #text {
     font-size: 45px;
@@ -56,11 +56,14 @@ h1 {
 p {
     color: white;
 }
+.info-list {
+    color: white;
+    font-size: 18px;
+}
 
 
 .links {
     color: white;
-    font-size: 25px;
 }
 
 
