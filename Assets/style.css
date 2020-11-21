@@ -8,6 +8,7 @@ body, html{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    overflow-x: auto;
 }
 
 .navbar {
@@ -39,11 +40,11 @@ p {
 }
 
 h3 {
-    color: whitesmoke;
+    color: orangered;
     text-decoration: underline;
 }
 .links {
-    color: orangered;
+    color: white;
     font-size: 25px;
 }
 
